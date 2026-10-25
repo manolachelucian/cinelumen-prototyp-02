@@ -1,7 +1,7 @@
 # Progress 02 – Návrh klíčových částí webu CineLumen
 
 **Výstup:** interaktivní mid-fidelity prototyp („vibe-kódovaný“ základ webu) v čistém HTML, CSS a JavaScriptu.
-**Spuštění:** otevřít `index.html` v prohlížeči. Nic se neinstaluje, funguje i offline (bez internetu jen se záložním písmem).
+**Spuštění:** otevřít `index.html` v prohlížeči. Nic se neinstaluje, funguje i offline (bez internetu jen se záložním písmem) ,nebo zde je link https://manolachelucian.github.io/cinelumen-prototyp-02/.
 **Zdroje:** Projektová specifikace (výstup 01) a data `cinelumen_festival_data.json` (60 programových bloků, 60 hostů, 4 sály). Data jsou do prototypu vložena jako `js/data.js`, aby šel web otevřít přímo ze souboru.
 
 ## Struktura prototypu
